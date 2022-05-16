@@ -31,3 +31,4 @@ E inserir um e-mail
 E clicar no botao continuar
     Clicar no botao continuar
 Entao deve ser exibido a mensagem "Houve um problema"
+    Menssagem de erro ao tentar efetuar login
