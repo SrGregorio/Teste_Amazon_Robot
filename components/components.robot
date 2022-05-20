@@ -16,3 +16,6 @@ ${ADICIONAR_CARRINHO}           //input[contains(@name,'submit.add-to-cart')]
 ${SEM_GARANTIA_ESTENDIDA}       //input[@aria-labelledby='attachSiNoCoverage-announce']
 ${IR_PARA_CARRINHO}             //a[contains(.,'Ir para o carrinho')]
 ${PRODUTO_CARRINHO}             //div[@class='sc-list-item-content']
+
+${EXCLUIR_PRODUTO}              //input[contains(@value,'Excluir')]
+${MENSAGEM_CARRINHO_VAZIO}      //h1[contains(.,'Seu carrinho de compras da Amazon está vazio.')]
